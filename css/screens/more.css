@@ -1,6 +1,5 @@
 .more-screen .icon-row{
     margin-top: 30px;
-    
 }
 
 .more-suggestions{
@@ -15,6 +14,7 @@
 
 .more-suggestions__icons{
     display: flex;
+    justify-content: space-between;
 }
 
 .more-suggestions__icon{
@@ -22,6 +22,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100px;
+    text-align: center;
 }
 
 .more-suggestions__icon-img{

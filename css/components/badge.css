@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: red;
+    background-color: var(--orange);
     width: 20px;
     height: 20px;
     border-radius: 50%;

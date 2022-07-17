@@ -13,6 +13,7 @@
     height: 70px;
     border-radius: 30px;
     margin-right: 20px;
+    object-fit: cover;
 }
 
 .user-component__title{
@@ -61,7 +62,7 @@
 .user-component__notification{
     width: 20px;
     height: 20px;
-    background-color: red;
+    background-color: var(--orange);
     border-radius: 50%;
     color: white;
     text-align: center;

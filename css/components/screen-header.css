@@ -20,8 +20,8 @@
 }
 
 .screen-header__new-feature{
-    background-color: red;
-    color: red;
+    background-color: var(--orange);
+    color: var(--orange);
     width: 8px;
     height:8px;
     border-radius: 50%;
@@ -34,8 +34,8 @@
 }
 
 .screen-header__new-feature2{
-    background-color: red;
-    color: red;
+    background-color: var(--orange);
+    color: var(--orange);
     width: 8px;
     height:8px;
     border-radius: 50%;
@@ -48,5 +48,5 @@
 }
 
 .fa-circle-exclamation{
-    color:red;
+    color:var(--orange);
 }

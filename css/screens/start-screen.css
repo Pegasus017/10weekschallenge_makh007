@@ -1,5 +1,5 @@
 .start-background{
-    background-color: yellow;
+    background-color: var(--yellow);
     display:flex;
     flex-direction: column;
     justify-content: center;

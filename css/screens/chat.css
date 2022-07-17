@@ -46,6 +46,7 @@
     height: 50px;
     border-radius: 15px;
     margin-right: 10px;
+    object-fit: cover;
 }
 
 .message-row__author{

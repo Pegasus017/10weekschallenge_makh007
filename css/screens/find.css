@@ -30,7 +30,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 20px;
+    margin: 20px 0px;
 }
 
 .open-post__title{
@@ -54,6 +54,7 @@
     height: 20px;
     border-radius: 50%;
     margin-right: 5px;
+    object-fit: cover;
 }
 
 .open-post__member-count{
@@ -78,8 +79,8 @@
 }
 
 .open-post__photo img{
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     border-radius: 10px;
     border: 1px solid black;
 }
@@ -92,9 +93,9 @@
     display: flex;
     align-items: center;
     position: absolute;
-    bottom: 10px;
-    right: 10px;
-    font-size: 14px;
+    bottom: 8px;
+    right: 8px;
+    font-size: 12px;
 }
 
 .open-post__heart-counts span{

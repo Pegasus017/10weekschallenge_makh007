@@ -5,7 +5,8 @@
     position:fixed;
     bottom: 0;
     width: 100%;
-    box-sizing: border-box;    
+    box-sizing: border-box; 
+    z-index: 1;
 }
 
 .nav__list{
@@ -24,8 +25,8 @@
 }
 
 .nav__new-feature{
-    background-color: red;
-    color: red;
+    background-color: var(--orange);
+    color: var(--orange);
     width: 8px;
     height:8px;
     border-radius: 50%;
